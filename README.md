@@ -1,2 +1,2 @@
-# GitHubKT
-GitHubKT
+# GitRepoKT
+GitRepoKT
